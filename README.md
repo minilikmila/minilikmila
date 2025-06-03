@@ -8,7 +8,7 @@
 
 ### 💡 About Me
 
-I'm a Software Engineer with about **5 years** of experience building scalable, secure, and high-impact backend systems. I’ve designed and implemented microservices, real-time streaming servers, multi-tenant SaaS platforms, and AI-powered features for document summarization, job platforms, and video content delivery.
+I'm a Software Engineer with about **6 years** of experience building scalable, secure, and high-impact backend systems. I’ve designed and implemented microservices, real-time streaming servers, multi-tenant SaaS platforms, and AI-powered features for document summarization, job platforms, and video content delivery.
 
 My work spans from architecting robust backend infrastructures to optimizing performance in distributed systems, always with an eye for clean, maintainable code and real-world impact.
 
