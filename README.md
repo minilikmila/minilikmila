@@ -14,7 +14,7 @@ My work spans from architecting robust backend infrastructures to optimizing per
 
 ---
 
-### 🛠️ Skills - Languages & Frameworks
+### 🛠️ Skills – Languages, Frameworks & Tools
 
 <p align="left">
   <!-- Core Languages -->
@@ -32,31 +32,34 @@ My work spans from architecting robust backend infrastructures to optimizing per
    <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
 
   <!-- Databases -->
-   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/></a>
-   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></a>
-   <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/></a>
-   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/></a>
-  <a href="https://hasura.io/" target="_blank"><img src="images/hasura.svg" width="40" height="40" alt="Hasura"/></a>
+
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/></a>
+<a href="https://hasura.io/" target="_blank"><img src="images/hasura.svg" width="40" height="40" alt="Hasura"/></a>
 
   <!-- DevOps / Infrastructure -->
-   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
-   <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/></a>
-   <a href="https://dapr.io/" target="_blank"><img src="images/dapr.svg" width="40" height="40" alt="Dapr"/></a>
+
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/></a>
+<a href="https://dapr.io/" target="_blank"><img src="images/dapr.svg" width="40" height="40" alt="Dapr"/></a>
+<a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank"><img src="images/argo.svg" width="40" height="40" alt="Argo"/></a>
 
   <!-- Frontend -->
-   <a href="https://react.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>
-   <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue"/></a>
-   <a href="https://www.apollographql.com/" target="_blank"><img src="images/apollographql.svg" width="40" height="40" alt="Apollo GraphQL"/></a>
-  <a href="https://pinia.vuejs.org/" target="_blank"><img src="https://pinia.vuejs.org/logo.svg" width="40" height="40" alt="Pinia"/></a>
+
+<a href="https://react.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue"/></a>
+<a href="https://www.apollographql.com/" target="_blank"><img src="images/apollographql.svg" width="40" height="40" alt="Apollo GraphQL"/></a>
+<a href="https://pinia.vuejs.org/" target="_blank"><img src="https://pinia.vuejs.org/logo.svg" width="40" height="40" alt="Pinia"/></a>
 
 </p>
 
 ---
 
-### 🧠 Concepts & Specialties
+### 🧠 Key Concepts & Specialties
 
-**Microservices** • **Event-Driven Architecture** • **RESTful & GraphQL APIs** • **Distributed Systems** • **SaaS Platforms** • **Clean Architecture** • **CQRS** •
-**Domain Driven Design**
+**Microservices** • **Event-Driven Architecture** • **RESTful & GraphQL APIs** • **SaaS Platforms** • **CQRS** • **Domain-Driven Design (DDD)** • **Distributed Systems** • **Clean Architecture** • **Observability & Scalability**
 
 ---
 
